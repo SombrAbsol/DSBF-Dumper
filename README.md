@@ -1,5 +1,5 @@
 # DSBF Dumper
-This homebrew can dump the Nintendo DS BIOS and firmware from a Nintendo DS Phat/Lite with a Slot-1 flashcard or Slot-2 flashcart.
+This homebrew can dump the Nintendo DS BIOS and firmware from a Nintendo DS Phat/Lite with a Slot-1 flashcard or a Slot-2 flashcart.
 
 All credits go to **cory1492** original developer and who accepted to share the source code, previously impossible to find after the closure of his website.
 
