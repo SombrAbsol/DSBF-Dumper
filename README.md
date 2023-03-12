@@ -1,7 +1,7 @@
 # DSBF Dumper
 This homebrew can dump the Nintendo DS BIOS and firmware from a Nintendo DS Phat/Lite with a Slot-1 flashcard or a Slot-2 flashcart.
 
-All credits go to **cory1492** original developer and who accepted to share the source code, previously impossible to find after the closure of his website.
+All credits go to **cory1492**, the original developer who accepted to share the source code, previously impossible to find after the closure of his website.
 
 Therefore, this repository is only meant to archive the source code. If you want to improve this homebrew, please fork this repository. Also please do not create any issues or pull requests in this repository.
 
